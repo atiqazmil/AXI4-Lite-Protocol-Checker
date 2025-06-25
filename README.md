@@ -11,8 +11,11 @@ This is a beginner-friendly AXI4-Lite slave and testbench written in SystemVeril
 ## Tools
 
 - Simulated using Vivado XSIM (Vivado GUI or Tcl)
-- Developed on WSL2 + Vim / VSCode
+- Developed on WSL2 + Vim 
 
+## AXI Write Waveform
+
+Click to view: [Waveform Screenshot](AXI_lite_write_read_waveform.png)
 ## To Do
 
 - [ ] Add AXI read transaction
