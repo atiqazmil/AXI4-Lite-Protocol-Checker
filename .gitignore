@@ -1,4 +1,4 @@
-i# Vivado junk
+# Vivado junk
 *.jou
 *.log
 *.str
@@ -34,6 +34,3 @@ vivado*.*
 *.vcd
 *.vpd
 *.wlf
-
-# VS Code
-.vscode/
