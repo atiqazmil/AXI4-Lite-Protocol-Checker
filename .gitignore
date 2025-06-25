@@ -1,0 +1,39 @@
+i# Vivado junk
+*.jou
+*.log
+*.str
+*.opt
+*.pb
+*.html
+*.xml
+*.tcl
+*.xpr~
+*.zip
+*.rpt
+*.wdb
+
+# Vivado generated dirs
+.cache/
+.hw/
+.sim/
+.srcs/
+.webtalk/
+.Xil/
+ip_user_files/
+project.cache/
+vivado*.*
+
+# Temporary/system files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Backup or test dumps
+*.bak
+*.vcd
+*.vpd
+*.wlf
+
+# VS Code
+.vscode/
